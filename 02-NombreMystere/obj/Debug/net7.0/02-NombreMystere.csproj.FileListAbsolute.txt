@@ -1,0 +1,14 @@
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/02-NombreMystere/bin/Debug/net7.0/02-NombreMystere
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/02-NombreMystere/bin/Debug/net7.0/02-NombreMystere.deps.json
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/02-NombreMystere/bin/Debug/net7.0/02-NombreMystere.runtimeconfig.json
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/02-NombreMystere/bin/Debug/net7.0/02-NombreMystere.dll
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/02-NombreMystere/bin/Debug/net7.0/02-NombreMystere.pdb
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/02-NombreMystere/obj/Debug/net7.0/02-NombreMystere.GeneratedMSBuildEditorConfig.editorconfig
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/02-NombreMystere/obj/Debug/net7.0/02-NombreMystere.AssemblyInfoInputs.cache
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/02-NombreMystere/obj/Debug/net7.0/02-NombreMystere.AssemblyInfo.cs
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/02-NombreMystere/obj/Debug/net7.0/02-NombreMystere.csproj.CoreCompileInputs.cache
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/02-NombreMystere/obj/Debug/net7.0/02-NombreMystere.dll
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/02-NombreMystere/obj/Debug/net7.0/refint/02-NombreMystere.dll
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/02-NombreMystere/obj/Debug/net7.0/02-NombreMystere.pdb
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/02-NombreMystere/obj/Debug/net7.0/02-NombreMystere.genruntimeconfig.cache
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/02-NombreMystere/obj/Debug/net7.0/ref/02-NombreMystere.dll

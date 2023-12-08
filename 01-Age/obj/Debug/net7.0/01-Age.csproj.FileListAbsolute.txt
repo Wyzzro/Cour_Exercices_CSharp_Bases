@@ -1,0 +1,14 @@
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/01-Age/bin/Debug/net7.0/01-Age
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/01-Age/bin/Debug/net7.0/01-Age.deps.json
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/01-Age/bin/Debug/net7.0/01-Age.runtimeconfig.json
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/01-Age/bin/Debug/net7.0/01-Age.dll
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/01-Age/bin/Debug/net7.0/01-Age.pdb
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/01-Age/obj/Debug/net7.0/01-Age.GeneratedMSBuildEditorConfig.editorconfig
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/01-Age/obj/Debug/net7.0/01-Age.AssemblyInfoInputs.cache
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/01-Age/obj/Debug/net7.0/01-Age.AssemblyInfo.cs
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/01-Age/obj/Debug/net7.0/01-Age.csproj.CoreCompileInputs.cache
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/01-Age/obj/Debug/net7.0/01-Age.dll
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/01-Age/obj/Debug/net7.0/refint/01-Age.dll
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/01-Age/obj/Debug/net7.0/01-Age.pdb
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/01-Age/obj/Debug/net7.0/01-Age.genruntimeconfig.cache
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/01-Age/obj/Debug/net7.0/ref/01-Age.dll

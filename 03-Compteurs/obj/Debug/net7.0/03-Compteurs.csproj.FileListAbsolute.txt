@@ -1,0 +1,14 @@
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/03-Compteurs/bin/Debug/net7.0/03-Compteurs
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/03-Compteurs/bin/Debug/net7.0/03-Compteurs.deps.json
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/03-Compteurs/bin/Debug/net7.0/03-Compteurs.runtimeconfig.json
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/03-Compteurs/bin/Debug/net7.0/03-Compteurs.dll
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/03-Compteurs/bin/Debug/net7.0/03-Compteurs.pdb
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/03-Compteurs/obj/Debug/net7.0/03-Compteurs.GeneratedMSBuildEditorConfig.editorconfig
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/03-Compteurs/obj/Debug/net7.0/03-Compteurs.AssemblyInfoInputs.cache
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/03-Compteurs/obj/Debug/net7.0/03-Compteurs.AssemblyInfo.cs
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/03-Compteurs/obj/Debug/net7.0/03-Compteurs.csproj.CoreCompileInputs.cache
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/03-Compteurs/obj/Debug/net7.0/03-Compteurs.dll
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/03-Compteurs/obj/Debug/net7.0/refint/03-Compteurs.dll
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/03-Compteurs/obj/Debug/net7.0/03-Compteurs.pdb
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/03-Compteurs/obj/Debug/net7.0/03-Compteurs.genruntimeconfig.cache
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/03-Compteurs/obj/Debug/net7.0/ref/03-Compteurs.dll

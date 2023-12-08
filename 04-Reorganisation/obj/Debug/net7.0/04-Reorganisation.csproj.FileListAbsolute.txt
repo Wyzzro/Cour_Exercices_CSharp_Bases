@@ -1,0 +1,14 @@
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/04-Reorganisation/bin/Debug/net7.0/04-Reorganisation
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/04-Reorganisation/bin/Debug/net7.0/04-Reorganisation.deps.json
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/04-Reorganisation/bin/Debug/net7.0/04-Reorganisation.runtimeconfig.json
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/04-Reorganisation/bin/Debug/net7.0/04-Reorganisation.dll
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/04-Reorganisation/bin/Debug/net7.0/04-Reorganisation.pdb
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/04-Reorganisation/obj/Debug/net7.0/04-Reorganisation.GeneratedMSBuildEditorConfig.editorconfig
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/04-Reorganisation/obj/Debug/net7.0/04-Reorganisation.AssemblyInfoInputs.cache
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/04-Reorganisation/obj/Debug/net7.0/04-Reorganisation.AssemblyInfo.cs
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/04-Reorganisation/obj/Debug/net7.0/04-Reorganisation.csproj.CoreCompileInputs.cache
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/04-Reorganisation/obj/Debug/net7.0/04-Reorganisation.dll
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/04-Reorganisation/obj/Debug/net7.0/refint/04-Reorganisation.dll
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/04-Reorganisation/obj/Debug/net7.0/04-Reorganisation.pdb
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/04-Reorganisation/obj/Debug/net7.0/04-Reorganisation.genruntimeconfig.cache
+/home/Grk/Documents/Dev/CSharp/Cour_CSharp_Bases/04-Reorganisation/obj/Debug/net7.0/ref/04-Reorganisation.dll
